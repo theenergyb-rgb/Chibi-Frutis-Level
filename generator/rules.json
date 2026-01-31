@@ -1,0 +1,65 @@
+{
+  "version": "1.0.0",
+  "allowedFruits": [
+    "strawberry",
+    "cherry",
+    "lemon",
+    "coconut",
+    "banana"
+  ],
+  "themes": [
+    {
+      "id": "ice_cookie",
+      "features": [
+        "ice",
+        "cookie"
+      ],
+      "weight": 10,
+      "difficulty": "normal"
+    },
+    {
+      "id": "honey_cake",
+      "features": [
+        "honey",
+        "cake"
+      ],
+      "weight": 8,
+      "difficulty": "normal"
+    },
+    {
+      "id": "sand_lock",
+      "features": [
+        "sand",
+        "lock"
+      ],
+      "weight": 7,
+      "difficulty": "normal"
+    },
+    {
+      "id": "ice_honey",
+      "features": [
+        "ice",
+        "honey"
+      ],
+      "weight": 6,
+      "difficulty": "normal"
+    },
+    {
+      "id": "sand_shell",
+      "features": [
+        "sand",
+        "shell"
+      ],
+      "weight": 5,
+      "difficulty": "hard"
+    }
+  ],
+  "hardLevelInterval": 30,
+  "obstacleMaxPercent": 0.45,
+  "movesFormula": {
+    "base": 25,
+    "perObstacle": 0.33,
+    "maxNormal": 30,
+    "maxHard": 18
+  }
+}

@@ -1,0 +1,706 @@
+{
+  "blockId": "801-900",
+  "version": "1.0.0",
+  "levels": {
+    "801": {
+      "type": "generated",
+      "templateFrom": 1,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "802": {
+      "type": "generated",
+      "templateFrom": 2,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "803": {
+      "type": "generated",
+      "templateFrom": 3,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "804": {
+      "type": "generated",
+      "templateFrom": 4,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "805": {
+      "type": "generated",
+      "templateFrom": 5,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "806": {
+      "type": "generated",
+      "templateFrom": 6,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "807": {
+      "type": "generated",
+      "templateFrom": 7,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "808": {
+      "type": "generated",
+      "templateFrom": 8,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "809": {
+      "type": "generated",
+      "templateFrom": 9,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "810": {
+      "type": "generated",
+      "templateFrom": 10,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "811": {
+      "type": "generated",
+      "templateFrom": 11,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "812": {
+      "type": "generated",
+      "templateFrom": 12,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "813": {
+      "type": "generated",
+      "templateFrom": 13,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "814": {
+      "type": "generated",
+      "templateFrom": 14,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "815": {
+      "type": "generated",
+      "templateFrom": 15,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "816": {
+      "type": "generated",
+      "templateFrom": 16,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "817": {
+      "type": "generated",
+      "templateFrom": 17,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "818": {
+      "type": "generated",
+      "templateFrom": 18,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "819": {
+      "type": "generated",
+      "templateFrom": 19,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "820": {
+      "type": "generated",
+      "templateFrom": 20,
+      "theme": "auto",
+      "moves": 18,
+      "hardLevel": true
+    },
+    "821": {
+      "type": "generated",
+      "templateFrom": 21,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "822": {
+      "type": "generated",
+      "templateFrom": 22,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "823": {
+      "type": "generated",
+      "templateFrom": 23,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "824": {
+      "type": "generated",
+      "templateFrom": 24,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "825": {
+      "type": "generated",
+      "templateFrom": 25,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "826": {
+      "type": "generated",
+      "templateFrom": 26,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "827": {
+      "type": "generated",
+      "templateFrom": 27,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "828": {
+      "type": "generated",
+      "templateFrom": 28,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "829": {
+      "type": "generated",
+      "templateFrom": 29,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "830": {
+      "type": "generated",
+      "templateFrom": 30,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "831": {
+      "type": "generated",
+      "templateFrom": 31,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "832": {
+      "type": "generated",
+      "templateFrom": 32,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "833": {
+      "type": "generated",
+      "templateFrom": 33,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "834": {
+      "type": "generated",
+      "templateFrom": 34,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "835": {
+      "type": "generated",
+      "templateFrom": 35,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "836": {
+      "type": "generated",
+      "templateFrom": 36,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "837": {
+      "type": "generated",
+      "templateFrom": 37,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "838": {
+      "type": "generated",
+      "templateFrom": 38,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "839": {
+      "type": "generated",
+      "templateFrom": 39,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "840": {
+      "type": "generated",
+      "templateFrom": 40,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "841": {
+      "type": "generated",
+      "templateFrom": 41,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "842": {
+      "type": "generated",
+      "templateFrom": 42,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "843": {
+      "type": "generated",
+      "templateFrom": 43,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "844": {
+      "type": "generated",
+      "templateFrom": 44,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "845": {
+      "type": "generated",
+      "templateFrom": 45,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "846": {
+      "type": "generated",
+      "templateFrom": 46,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "847": {
+      "type": "generated",
+      "templateFrom": 47,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "848": {
+      "type": "generated",
+      "templateFrom": 48,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "849": {
+      "type": "generated",
+      "templateFrom": 49,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "850": {
+      "type": "generated",
+      "templateFrom": 50,
+      "theme": "auto",
+      "moves": 18,
+      "hardLevel": true
+    },
+    "851": {
+      "type": "generated",
+      "templateFrom": 51,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "852": {
+      "type": "generated",
+      "templateFrom": 52,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "853": {
+      "type": "generated",
+      "templateFrom": 53,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "854": {
+      "type": "generated",
+      "templateFrom": 54,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "855": {
+      "type": "generated",
+      "templateFrom": 55,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "856": {
+      "type": "generated",
+      "templateFrom": 56,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "857": {
+      "type": "generated",
+      "templateFrom": 57,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "858": {
+      "type": "generated",
+      "templateFrom": 58,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "859": {
+      "type": "generated",
+      "templateFrom": 59,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "860": {
+      "type": "generated",
+      "templateFrom": 60,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "861": {
+      "type": "generated",
+      "templateFrom": 61,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "862": {
+      "type": "generated",
+      "templateFrom": 62,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "863": {
+      "type": "generated",
+      "templateFrom": 63,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "864": {
+      "type": "generated",
+      "templateFrom": 64,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "865": {
+      "type": "generated",
+      "templateFrom": 65,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "866": {
+      "type": "generated",
+      "templateFrom": 66,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "867": {
+      "type": "generated",
+      "templateFrom": 67,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "868": {
+      "type": "generated",
+      "templateFrom": 68,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "869": {
+      "type": "generated",
+      "templateFrom": 69,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "870": {
+      "type": "generated",
+      "templateFrom": 70,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "871": {
+      "type": "generated",
+      "templateFrom": 71,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "872": {
+      "type": "generated",
+      "templateFrom": 72,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "873": {
+      "type": "generated",
+      "templateFrom": 73,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "874": {
+      "type": "generated",
+      "templateFrom": 74,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "875": {
+      "type": "generated",
+      "templateFrom": 75,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "876": {
+      "type": "generated",
+      "templateFrom": 76,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "877": {
+      "type": "generated",
+      "templateFrom": 77,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "878": {
+      "type": "generated",
+      "templateFrom": 78,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "879": {
+      "type": "generated",
+      "templateFrom": 79,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "880": {
+      "type": "generated",
+      "templateFrom": 80,
+      "theme": "auto",
+      "moves": 18,
+      "hardLevel": true
+    },
+    "881": {
+      "type": "generated",
+      "templateFrom": 81,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "882": {
+      "type": "generated",
+      "templateFrom": 82,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "883": {
+      "type": "generated",
+      "templateFrom": 83,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "884": {
+      "type": "generated",
+      "templateFrom": 84,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "885": {
+      "type": "generated",
+      "templateFrom": 85,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "886": {
+      "type": "generated",
+      "templateFrom": 86,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "887": {
+      "type": "generated",
+      "templateFrom": 87,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "888": {
+      "type": "generated",
+      "templateFrom": 88,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "889": {
+      "type": "generated",
+      "templateFrom": 89,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "890": {
+      "type": "generated",
+      "templateFrom": 90,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "891": {
+      "type": "generated",
+      "templateFrom": 91,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "892": {
+      "type": "generated",
+      "templateFrom": 92,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "893": {
+      "type": "generated",
+      "templateFrom": 93,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "894": {
+      "type": "generated",
+      "templateFrom": 94,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "895": {
+      "type": "generated",
+      "templateFrom": 95,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "896": {
+      "type": "generated",
+      "templateFrom": 96,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "897": {
+      "type": "generated",
+      "templateFrom": 97,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "898": {
+      "type": "generated",
+      "templateFrom": 98,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "899": {
+      "type": "generated",
+      "templateFrom": 99,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    },
+    "900": {
+      "type": "generated",
+      "templateFrom": 100,
+      "theme": "auto",
+      "moves": 25,
+      "hardLevel": false
+    }
+  }
+}

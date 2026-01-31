@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "enabled": true,
+  "motivational": {
+    "enabled": true,
+    "messages": [
+      "\u00a1No te rindas! Cada nivel te hace m\u00e1s fuerte \ud83d\udcaa",
+      "\u00a1Tus frutas chibi te extra\u00f1an! \ud83c\udf53",
+      "\u00bfListo para el siguiente desaf\u00edo? \ud83c\udfae",
+      "\u00a1Vuelve a jugar! \ud83c\udf1f"
+    ],
+    "intervalHours": 24
+  },
+  "engagement": {
+    "enabled": true,
+    "messages": [
+      "\u00a1Nuevos niveles disponibles! \ud83c\udf89",
+      "\u00a1Vuelve y sigue la aventura! \ud83c\udf1f",
+      "\u00a1Te esperan m\u00e1s desaf\u00edos! \ud83d\ude80"
+    ],
+    "intervalDays": 3
+  }
+}
